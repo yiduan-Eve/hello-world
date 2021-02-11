@@ -3,12 +3,12 @@
 
 
 # *Table of Contents*
-1.PROJECT TITLE
-2.DESCRIPTION
-3.HOW TO RUN PROGRAM
-4.FILES USED
-5.ADDITIONAL DOCUMENTATION
-6.VERSIONNING
+ 1.PROJECT TITLE
+ 2.DESCRIPTION
+ 3.HOW TO RUN PROGRAM
+ 4.FILES USED
+ 5.ADDITIONAL DOCUMENTATION
+ 6.VERSIONNING
 
 # *Project Title*
  Hello World Sample
@@ -24,13 +24,12 @@
 | Header | Title |
 | Paragraph | Text |
  
-
 # *Files Used*
--[]Did you use any datafiles?
--[]List filenames
--[]Where you got them
--[]What is contained within the data files?
--[]Datafile considerations
+-[ ]Did you use any datafiles?
+-[ ]List filenames
+-[ ]Where you got them
+-[ ]What is contained within the data files?
+-[ ]Datafile considerations
 -[x]URL links to files - example here: https://www.bloomberg.com/?sref=CJkCtSFC
 
 # *Additional Documentation*
