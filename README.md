@@ -5,7 +5,7 @@ Hi all! I am currently a junior student who is double majoring business analytic
 
 # *Project Title*
 
-# *Description
+# *Description*
 
-# *How to run program
+# *How to run program*
 
