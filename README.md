@@ -3,12 +3,12 @@
 
 
 # *Table of Contents*
- 1. PROJECT TITLE
+ 1. [PROJECT TITLE
  2. DESCRIPTION
  3. HOW TO RUN PROGRAM
  4. FILES USED
  5. ADDITIONAL DOCUMENTATION
- 6. VERSIONNING
+ 6. VERSIONNING]
 
 # *Project Title*
  Hello World Sample
@@ -26,13 +26,14 @@
  
 # *Files Used*
 - [:alarm_clock: ]Did you use any datafiles?
-- [ ]List filenames
-- [ ]Where you got them
-- [ ]What is contained within the data files?
-- [ ]Datafile considerations
-- [x]URL links to files - example here: <https://www.bloomberg.com/?sref=CJkCtSFC>
+- [:mag:]List filenames
+- [:bulb:]Where you got them
+- [:mailbox_with_no_mail: ]What is contained within the data files?
+- [:bookmark:]Datafile considerations
+- [:clipboard:]URL links to files - example here: <https://www.bloomberg.com/?sref=CJkCtSFC>
 
 # *Additional Documentation*
 No additional documentation at this time.
 
 # *Versioning*
+Discuss any versioning used especially if you are making major changes throughout the process of your code.
