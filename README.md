@@ -30,7 +30,7 @@
 - [ ]Where you got them
 - [ ]What is contained within the data files?
 - [ ]Datafile considerations
-- [x]URL links to files - example here: https://www.bloomberg.com/?sref=CJkCtSFC
+- [x]URL links to files - example here: <https://www.bloomberg.com/?sref=CJkCtSFC>
 
 # *Additional Documentation*
 No additional documentation at this time.
